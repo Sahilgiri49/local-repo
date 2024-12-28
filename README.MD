@@ -1,6 +1,6 @@
 # Netflix Clone
 
-This is my first project: a **Netflix Clone**! The project replicates the front-end design of Netflix using **HTML**, **CSS**, and **JavaScript**. It showcases my understanding of web development and aims to provide a similar user interface and experience to Netflix.
+This is my first project: a **Netflix Clone**! The project replicates the front-end design of Netflix using **HTML** and  **CSS**. It showcases my understanding of web development and aims to provide a similar user interface and experience to Netflix.
 
 ## Features
 
