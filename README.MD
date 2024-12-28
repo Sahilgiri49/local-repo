@@ -14,7 +14,6 @@ This is my first project: a **Netflix Clone**! The project replicates the front-
 
 - **HTML**: For structuring the web pages.
 - **CSS**: For styling the elements and creating responsive designs.
-- **JavaScript**: For adding interactivity to the user interface.
 
 ## How to Run the Project
 
@@ -41,7 +40,6 @@ Check out the live demo here: [Netflix Clone Live](https://yourusername.github.i
 - Successfully created a responsive and visually appealing Netflix clone.
 - Gained a solid understanding of front-end technologies (HTML, CSS, and JavaScript).
 - Learned the importance of structuring code and organizing files for better readability.
-- Improved my problem-solving skills while debugging and testing the project.
 
 ## Future Enhancements
 
